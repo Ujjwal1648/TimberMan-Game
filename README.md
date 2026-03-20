@@ -15,6 +15,10 @@ g++ test.cpp -o game -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
 
 Run:
 ./game
+## Screenshots
+
+![Game](screenshots/game.png)
+
 
 ## Author
 Ujjwal Kumar Singh
