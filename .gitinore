@@ -1,0 +1,16 @@
+# Executables
+game
+t1
+*.out
+*.exe
+*.o
+
+# VS Code
+.vscode/
+
+# Build
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
