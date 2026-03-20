@@ -17,8 +17,11 @@ Run:
 ./game
 ## Screenshots
 
-![Game](screenshots/game.png)
-
+![Game](./screenshots/game.png)
+![Image1](./screenshots/image1.png)
+![Image2](./screenshots/image2.png)
+![Image3](./screenshots/image3.png)
+![Image4](./screenshots/image4.png)
 
 ## Author
 Ujjwal Kumar Singh
